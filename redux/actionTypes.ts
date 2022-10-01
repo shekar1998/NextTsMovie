@@ -1,0 +1,15 @@
+export const FORM_DISPLAY = "SELECT_FORM"
+
+export const MOVIE_DISPLAY = "MOVIE_DISPLAY"
+
+export const MEDIA_QUERY = "MEDIA_QUERY"
+
+export const NAV_BAR = "NAV_BAR"
+
+export const POPULAR_MOVIES = "POPULAR_MOVIES"
+
+export const SINGLE_MOVIE = "SINGLE_MOVIE"
+
+export const SINGLE_MOVIE_TRAILER = "SINGLE_MOVIE_TRAILER"
+
+export const MOVIE_CAST_CREW = "MOVIE_CAST_CREW"
